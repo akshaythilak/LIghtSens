@@ -1,0 +1,11 @@
+<svg id="clipboard-text" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_twotone_clipboard-text" data-name="vuesax/twotone/clipboard-text">
+    <g id="clipboard-text-2" data-name="clipboard-text">
+      <path id="Vector" d="M0,0H7" transform="translate(8 12.2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H4.38" transform="translate(8 16.2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M6,4C8,4,8,3,8,2,8,0,7,0,6,0H2C1,0,0,0,0,2S1,4,2,4Z" transform="translate(8 2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-4" data-name="Vector" d="M13,0c3.33.18,5,1.41,5,5.98v6c0,4-1,6-6,6H6c-5,0-6-2-6-6v-6C0,1.42,1.67.18,5,0" transform="translate(3 4.02)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-5" data-name="Vector" d="M24,0V24H0V0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

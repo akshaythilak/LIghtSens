@@ -1,0 +1,9 @@
+<svg id="toggle-off-circle" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="vuesax_twotone_toggle-off-circle" data-name="vuesax/twotone/toggle-off-circle">
+    <g id="toggle-off-circle-2" data-name="toggle-off-circle">
+      <path id="Vector" d="M32,0a21.333,21.333,0,1,1,0,42.667H21.333A21.333,21.333,0,0,1,21.333,0Z" transform="translate(5.333 10.667)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M10.667,21.333A10.667,10.667,0,1,1,21.333,10.667,10.667,10.667,0,0,1,10.667,21.333Z" transform="translate(16 21.333)" fill="#26a26b" opacity="0.941"/>
+      <path id="Vector-3" data-name="Vector" d="M64,0V64H0V0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

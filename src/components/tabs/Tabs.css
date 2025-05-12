@@ -1,0 +1,40 @@
+.Tabs-box {
+  background: white;
+  width: fit-content;
+  border-radius: 25px;
+}
+
+.MuiTab-root.Mui-selected {
+  background: #28367a !important;
+  opacity: 1;
+  color: white !important;
+}
+
+.Tabs-box.MuiTab-root.Mui-selected {
+  border-radius: 26px;
+}
+
+.MuiInputBase-root {
+  height: 46px !important;
+  font-size: 1.05rem;
+  width: 100%;
+}
+/* system.css */
+.tabs-custom-style {
+  background: white;
+  width: fit-content;
+}
+
+.tabs-custom-style .MuiTab-root.Mui-selected {
+  background: #536de6 !important;
+  opacity: 1;
+  color: white !important;
+  opacity: 1;
+  border: 1px solid #eaeef1;
+}
+
+.tabs-custom-style .MuiInputBase-root {
+  height: 46px !important;
+  font-size: 1.05rem;
+  width: 100%;
+}

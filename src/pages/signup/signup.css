@@ -1,0 +1,183 @@
+/* Base Layout */
+/* Left Section */
+.signup-left {
+  width: 70%;
+  background-image: url('../../assets/lightsensebackgroudimg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  align-items: center;
+  justify-content: center;
+}
+/* Right Section */
+.signup-right {
+  width: 30%;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  /* padding: 0 4rem; */
+  box-shadow: -8px 0 20px rgba(0, 0, 0, 0.05);
+}
+
+.signup-form-container {
+  width: 100%;
+  max-width: 400px !important;
+  padding: 0 1rem;
+}
+/* Buttons */
+.signup-button {
+  height: 70px !important;
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+  background-color: #28367a !important;
+  border-radius: 8px !important;
+  text-transform: uppercase !important;
+  color: #fff;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  margin-top: 1.25rem !important;
+}
+
+.signup-button:hover {
+  background-color: #1e2b5f !important;
+}
+
+.signup-register-button {
+  height: 70px;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  background: none !important;
+  border: none !important;
+  color: #555 !important;
+  cursor: pointer !important;
+}
+
+.signup-register-button:hover {
+  text-decoration: underline !important;
+}
+
+/* Typography */
+.signup-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #030303;
+  margin-top: auto;
+}
+
+.signup-subtitle {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #555;
+  margin-top: auto;
+}
+
+.signup-label,
+.footer-text {
+  font-size: 0.95rem;
+}
+
+/* Footer */
+.signup-footer {
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1.5rem;
+  padding: 0 1rem;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.footer-text {
+  font-size: 0.875rem;
+  color: #555;
+}
+
+.footer-select {
+  min-width: 150px !important;
+  max-width: 100%;
+}
+
+/* Material UI Overrides */
+.MuiInputBase-root {
+  height: 60px !important;
+  font-size: 1.05rem;
+  width: 100%;
+}
+
+.MuiInputBase-input {
+  padding: 0 1rem !important;
+}
+
+.MuiInputLabel-root {
+  font-size: 1rem;
+}
+
+/* ======================= Responsive ======================= */
+
+/* Medium Devices (Tablets) */
+@media (max-width: 1024px) {
+  .signup-left {
+    display: none;
+  }
+
+  .signup-right {
+    width: 100%;
+    padding: 2rem;
+    box-shadow: none;
+  }
+
+  .signup-form-container {
+    margin: 20px auto;
+    max-width: 100% !important;
+  }
+
+  .signup-title {
+    font-size: 1.75rem;
+  }
+
+  .signup-subtitle {
+    font-size: 0.95rem;
+  }
+}
+
+/* Small Devices (Mobiles) */
+@media (max-width: 768px) {
+  .signup-container {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .signup-right {
+    width: 100%;
+    padding: 1.5rem;
+  }
+
+  .signup-form-container {
+    padding: 0;
+  }
+
+  .signup-title {
+    font-size: 1.5rem;
+  }
+
+  .signup-subtitle {
+    font-size: 0.9rem;
+  }
+
+  .signup-button,
+  .signup-register-button {
+    height: 50px !important;
+    font-size: 0.9rem !important;
+  }
+
+  .footer-select {
+    width: 100%;
+  }
+
+  .signup-footer {
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem 0;
+  }
+}

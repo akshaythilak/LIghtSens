@@ -1,0 +1,15 @@
+<svg id="driver" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_twotone_driver" data-name="vuesax/twotone/driver">
+    <g id="driver-2" data-name="driver">
+      <path id="Vector" d="M2.68,7.99A2.687,2.687,0,0,1,0,5.31V2.68A2.687,2.687,0,0,1,2.68,0H17.31a2.687,2.687,0,0,1,2.68,2.68V5.31a2.693,2.693,0,0,1-2.68,2.68Z" transform="translate(2.01 2.01)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M2.68,7.99A2.687,2.687,0,0,1,0,5.31V2.68A2.687,2.687,0,0,1,2.68,0H17.31a2.687,2.687,0,0,1,2.68,2.68V5.31a2.693,2.693,0,0,1-2.68,2.68Z" transform="translate(2.01 14.01)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0V2" transform="translate(6 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0V2" transform="translate(10 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0V2" transform="translate(6 17)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-6" data-name="Vector" d="M0,0V2" transform="translate(10 17)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-7" data-name="Vector" d="M0,0H4" transform="translate(14 6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-8" data-name="Vector" d="M0,0H4" transform="translate(14 18)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-9" data-name="Vector" d="M24,0V24H0V0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

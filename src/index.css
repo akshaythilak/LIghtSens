@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import 'tailwindcss';
+html,
+body {
+  height: 100%;
+  font-family: 'Lato', sans-serif !important;
+}
+
+.MuiTypography-root {
+  /* font-family: 'Poppins', sans-serif !important; */
+  font-family: 'Lato', sans-serif !important;
+}
+
+#root {
+  height: 100%;
+  /* height: calc(100% - 179px); */
+  /* 159 = Height of footer (135) + elements inside */
+  display: flex;
+  flex-direction: column;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+:root {
+  --toastify-toast-min-height: 0px;
+  --toastify-font-family: 'Lato', sans-serif !important;
+  --toastify-icon-color-info: #fff;
+  --toastify-icon-color-success: #fff;
+  --toastify-icon-color-warning: #fff;
+  --toastify-icon-color-error: #fff;
+  --toastify-color-info: #0288d1;
+  --toastify-color-success: #388e3c;
+  --toastify-color-warning: #f57c00;
+  --toastify-color-error: #d32f2f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.outlined-button {
+  /* background: #ffffff 0% 0% no-repeat padding-box; */
+  border: 1px solid #536de6 !important;
+  border-radius: 4px;
+  color: #536de6;
+}
+
+.device-grid {
+  /* box-shadow: 0px 6px 26px #efeff7;
+  border-radius: 8px 8px 0px 0px;
+  display: flex;
+  flex-direction: column; */
+  height: 100%;
+}

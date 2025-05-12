@@ -1,0 +1,13 @@
+<svg id="money-4" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="vuesax_twotone_money-4" data-name="vuesax/twotone/money-4">
+    <g id="money-4-2" data-name="money-4">
+      <path id="Vector" d="M13.333,45.333C5.333,45.333,0,41.333,0,32V13.333C0,4,5.333,0,13.333,0H40c8,0,13.333,4,13.333,13.333V32C53.333,41.333,48,45.333,40,45.333Z" transform="translate(5.333 9.333)" fill="none" stroke="#633fe4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M8,16a8,8,0,1,1,8-8A8,8,0,0,1,8,16Z" transform="translate(24 24)" fill="none" stroke="#633fe4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0"/>
+      <path id="Vector-3" data-name="Vector" d="M10.667,0h-4A6.669,6.669,0,0,0,0,6.667v4" transform="translate(12 16)" fill="none" stroke="#633fe4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H4a6.669,6.669,0,0,1,6.667,6.667v4" transform="translate(41.333 16)" fill="none" stroke="#633fe4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-5" data-name="Vector" d="M10.667,10.667h-4A6.669,6.669,0,0,1,0,4V0" transform="translate(12 37.333)" fill="none" stroke="#633fe4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-6" data-name="Vector" d="M0,10.667H4A6.669,6.669,0,0,0,10.667,4V0" transform="translate(41.333 37.333)" fill="none" stroke="#633fe4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-7" data-name="Vector" d="M64,0V64H0V0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

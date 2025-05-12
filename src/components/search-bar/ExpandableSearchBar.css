@@ -1,0 +1,25 @@
+.search-input {
+  font-size: 14px;
+  width: 200px;
+  max-width: 0;
+  padding: 5px;
+  transition: all 0.5s ease;
+  box-sizing: border-box;
+  opacity: 0;
+  outline: none;
+  border: none;
+}
+
+.search-expanded {
+  max-width: 200px;
+  opacity: 1;
+}
+
+.search-wrapper {
+  height: 20px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding-top: 4px;
+  font-size: 18px;
+}

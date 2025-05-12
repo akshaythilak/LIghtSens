@@ -1,0 +1,11 @@
+<svg id="graph" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_graph" data-name="vuesax/bulk/graph">
+    <g id="graph-2" data-name="graph">
+      <g id="graph-3" data-name="graph" transform="translate(2.002 2)">
+        <path id="Vector" d="M4.64.329c-1.65-.48-2.79-.44-3.58.15A3.484,3.484,0,0,0,0,3.379v2.49c0,2.46,1.12,3.71,3.32,3.71H6.19a3.5,3.5,0,0,0,2.9-1.06c.61-.78.66-1.92.17-3.57A6.982,6.982,0,0,0,4.64.329Z" transform="translate(10.408)" fill="#28367a" opacity="0.4"/>
+        <path id="Vector-2" data-name="Vector" d="M15.877,8.141H12.3a3.192,3.192,0,0,1-3.19-3.19V1.371a1.368,1.368,0,0,0-.47-1.03,1.355,1.355,0,0,0-1.07-.33,8.733,8.733,0,0,0-5.92,3.53,8.633,8.633,0,0,0,5.36,13.55,8.387,8.387,0,0,0,1.65.16,8.5,8.5,0,0,0,5.05-1.65,8.733,8.733,0,0,0,3.53-5.92,1.344,1.344,0,0,0-.33-1.07A1.368,1.368,0,0,0,15.877,8.141Z" transform="translate(0 2.748)" fill="#28367a"/>
+      </g>
+      <path id="Vector-3" data-name="Vector" d="M24,0V24H0V0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

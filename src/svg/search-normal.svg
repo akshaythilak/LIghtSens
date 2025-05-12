@@ -1,0 +1,9 @@
+<svg id="search-normal" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_twotone_search-normal" data-name="vuesax/twotone/search-normal">
+    <g id="search-normal-2" data-name="search-normal">
+      <path id="Vector" d="M9.5,19A9.5,9.5,0,1,1,19,9.5,9.5,9.5,0,0,1,9.5,19Z" transform="translate(2 2)" fill="none" stroke="#28367a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M2,2,0,0" transform="translate(20 20)" fill="none" stroke="#2c397c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0" opacity="0.4"/>
+      <path id="Vector-3" data-name="Vector" d="M24,0V24H0V0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

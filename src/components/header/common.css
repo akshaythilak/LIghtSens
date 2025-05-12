@@ -1,0 +1,64 @@
+.MuiSvgIcon-root {
+  width: 1em;
+  font-size: 1.5rem;
+}
+.hhhhhhhhhh {
+  /* clip-path: ellipse(90% 105% at 0 50%); */
+  margin: 12px 0px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.app-drawer {
+  position: relative;
+  margin: 20px 0;
+  transition:
+    border-radius 0.3s ease,
+    width 0.3s ease;
+}
+
+.app-drawer.selected {
+  background-color: white !important;
+  border-bottom-right-radius: 48%;
+  border-top-right-radius: 48%;
+  position: relative;
+  color: black;
+}
+
+.app-drawer.drawerOpen {
+  border-bottom-right-radius: unset;
+  border-top-right-radius: unset;
+}
+
+.app-drawer.drawerClosed {
+  width: 91%;
+}
+
+.app-drawer.selected::before {
+  content: '';
+  position: absolute;
+  top: -43px;
+  left: 0;
+  height: 43px;
+  width: 25px;
+  border-bottom-left-radius: 50%;
+  box-shadow: 0 19px 0 0 #fff;
+}
+
+.app-drawer.selected::after {
+  content: '';
+  position: absolute;
+  bottom: -43px;
+  left: 0px;
+  height: 43px;
+  width: 25px;
+  border-top-left-radius: 50%;
+  box-shadow: 0 -19px 0px 0 #fff;
+  z-index: -1;
+}
+
+.app-drawer.selected.animate::before,
+.app-drawer.selected.animate::after {
+  opacity: 1;
+  transform: translateY(0);
+}
